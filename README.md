@@ -1,4 +1,4 @@
-# APIacClientSecretPostAuth
+# APIacAuthClientSecretPost
 
 An `APIac.Authenticator` plug for API authentication using the OAuth2 client secret post
 scheme
