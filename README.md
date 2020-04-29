@@ -20,7 +20,7 @@ in www-URL-encoded body (example from RFC6749):
 ```elixir
 def deps do
   [
-    {:apiac_auth_client_secret_post, github: "tanguilp/apiac_auth_client_secret_post", tag: "v0.1.0"}
+    {:apiac_auth_client_secret_post, "~> 1.0"}
   ]
 end
 ```
